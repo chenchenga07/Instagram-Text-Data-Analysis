@@ -8,4 +8,4 @@
 ![](images/IG.png)
 
 Tableau Public page link:
-https://public.tableau.com/profile/chenchenga07#!/vizhome/FashionShoeBrandsInstagramPostAnalysis/Caption_
+https://public.tableau.com/views/FashionShoeBrandsInstagramPostAnalysis/Caption_?:language=en&:display_count=y&:origin=viz_share_link
